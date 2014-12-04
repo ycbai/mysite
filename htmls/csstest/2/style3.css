@@ -1,0 +1,11 @@
+body {
+	background: #FFCC66 url("butterfly.gif") no-repeat fixed right bottom;
+}
+
+h1 {
+	color: #990000;
+	background-color: #FC9804;
+}
+
+/* Ù–‘µƒÀ≥–Ú:*/
+/*[background-color] | [background-image] | [background-repeat] | [background-attachment] | [background-position]*/
